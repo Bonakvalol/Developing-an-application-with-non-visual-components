@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Developing an application with non-visual\bin\Debug\Developing an application with non-visual.exe.config
+C:\Users\User\source\repos\Developing an application with non-visual\bin\Debug\Developing an application with non-visual.exe
+C:\Users\User\source\repos\Developing an application with non-visual\bin\Debug\Developing an application with non-visual.pdb
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\Developing an application with non-visual.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\Developing an application with non-visual_MarkupCompile.cache
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\Developing an application with non-visual_MarkupCompile.lref
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\Developing an application with non-visual.g.resources
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\Developing_an_application_with_non_visual.Properties.Resources.resources
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\Developing an application with non-visual.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\Developing an application with non-visual.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\Developing an application with non-visual.exe
+C:\Users\User\source\repos\Developing an application with non-visual\obj\Debug\Developing an application with non-visual.pdb
